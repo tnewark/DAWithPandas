@@ -1,0 +1,10 @@
+pandas
+numpy
+markdown
+jupyter
+numexpr
+bottleneck
+pandas-datareader
+xlsxwriter
+openpyxl
+matplotlib
